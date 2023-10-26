@@ -5,6 +5,7 @@ const Index: FC = () => {
     <>
       <div>数据总览</div>
       <div>bug测试222</div>
+      <div>22测试</div>
     </>
   );
 };
