@@ -4,6 +4,7 @@ const Integral: FC = () => {
   return (
     <>
       <div>Integral</div>
+      <div>夏可乐2b</div>
     </>
   );
 };
