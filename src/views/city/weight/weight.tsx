@@ -5,6 +5,7 @@ const Weight: FC = () => {
     <>
       <div>Weight</div>
       <h1>test5</h1>
+      {/* 添加了一行注释 */}
     </>
   );
 };
